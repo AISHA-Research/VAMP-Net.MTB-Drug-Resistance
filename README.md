@@ -1,5 +1,5 @@
 
-# VAMP-Net: Variant-Aware Multi-Path Network
+# VAMP-Net: Variant-quality-Aware Multi-Path Network
 
 **VAMP-Net** an Interpretable Multi-Path Fusion Architecture for *Mycobacterium tuberculosis* **MTB Drug Resistance Prediction**.
 
