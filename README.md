@@ -26,9 +26,10 @@ The outputs are integrated at a **Late Fusion Node** via an adaptive gating mech
 * **High Interpretability:** Attention maps and fusion gates provide clinical insights into "why" a resistance call was made.
 
 ## 📝 Citation
-If you use this work in your research, please cite:
 
- Boutorh, Aicha, Kamar Hibatallah Baghdadi, and Anais Daoud. "VAMP-Net: An Interpretable Multi-Path Network of Genomic Permutation-Invariant Set Attention and Quality-Aware 1D-CNN for MTB Drug Resistance." arXiv preprint arXiv:2512.21786 (2026) 
+Boutorh, A., Baghdadi, K.H. & Daoud, A. VAMP-Net: a variant-quality-aware, interpretable permutation-invariant multi-path network for auditable MTB drug-resistance. Appl Intell 56, 508 (2026). https://doi.org/10.1007/s10489-026-07496-4
+
+https://link.springer.com/article/10.1007/s10489-026-07496-4
 
 
 
