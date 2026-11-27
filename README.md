@@ -1,7 +1,7 @@
 
 # VAMP-Net: Variant-quality-Aware Multi-Path Network
 
-**VAMP-Net** an Interpretable Multi-Path Fusion Architecture for *Mycobacterium tuberculosis* **MTB Drug Resistance Prediction**.
+**VAMP-Net** an Interpretable Multi-Path Fusion Architecture for *Mycobacterium Tuberculosis* **MTB Drug Resistance Prediction**.
 
 VAMP-Net addresses a critical gap in genomic modeling by disentangling biological causality from technical sequencing noise. By leveraging a Set Attention Transformer and a Quality-Aware CNN, the Nettwork provides robust, auditable resistance calls even for rare genomic variants.
 
