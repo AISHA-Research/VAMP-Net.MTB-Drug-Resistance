@@ -23,7 +23,7 @@ The outputs are integrated at a **Late Fusion Node** via an adaptive gating mech
 * **Compositional Tokenization:** Handles rare/OOV variants by breaking them into fundamental sub-units (coordinates, nucleotides, delimiters).
 * **Permutation Invariance:** Treats genomic mutations as a set rather than an artificial sequence.
 * **Learnable Quality Aware:** Moves beyond binary VCF filters to learn from the continuous spectrum of sequencing confidence.
-* **High Interpretability:** Attention maps and fusion gates provide clinical insights into "why" a resistance call was made.
+* **Interpretability:** Attention maps and fusion gates provide clinical insights into "why" a resistance call was made.
 
 ## 📝 Citation
 
